@@ -1,0 +1,59 @@
+.mine {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.usd-rate {
+    font-size: 50px;
+    margin-bottom: 8px;
+}
+
+.currency {
+    font-size: 25px;
+    color: rgb(84, 83, 83);
+}
+
+.increment {
+    color: green;
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+
+.after-hours {
+    font-size: 25px;
+    color: rgb(84, 83, 83);
+}
+
+.negative-value {
+    color: rgb(180, 2, 2);
+}
+
+.simon {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.price-simon {
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+
+.currency-simon {
+    font-size: 16px;
+    color: rgb(100, 100, 100);
+}
+
+.change-simon {
+    color: rgb(24, 128, 56);
+    margin-bottom: 8px;
+}
+
+.after-hours-simon {
+    color: rgb(100, 100, 100);
+}
+
+.after-hours-change-simon {
+    color: rgb(235, 39, 39);
+}

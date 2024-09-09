@@ -1,0 +1,56 @@
+.mine {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.heading {
+    margin-bottom: 5px;
+}
+
+.org-name {
+    font-weight: bold;
+}
+
+.user-time {
+    color: grey;
+}
+
+.text {
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.user {
+    color: rgb(29, 155, 240);
+    cursor: pointer;
+}
+
+.simon {
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tweet-header-simon {
+    margin-bottom: 5px;
+}
+
+.tweet-author-simon {
+    font-weight: bold;
+}
+
+.tweet-info-simon {
+    color: rgb(100, 100, 100);
+}
+
+.tweet-simon {
+    width: 600px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.twitter-handle-simon {
+    color: rgb(29, 155, 240);
+}
